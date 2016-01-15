@@ -1,12 +1,14 @@
 # Open Source at the US Census Bureau
 
 This document describes the open source policy at the US Census Bureau.
-Our Mission and Key Tenants for Open Source
+
+## Our Mission
+
 The Census Bureau's mission is to serve as the leading source of quality data about the nation's people and economy. We honor privacy, protect confidentiality, share our expertise globally, and conduct our work openly.
 
-Where possible, the US Census Bureau will actively participate in open source projects aimed at increasing value to the public through our data dissemination efforts.  
+## Key Tenets
 
-Key tenants of our open source program are the following:
+Where possible, the US Census Bureau will actively participate in open source projects aimed at increasing value to the public through our data dissemination efforts.  
 
 * Foster a community around Census data and tools by encouraging and responding to real-time feedback on how our data products are used by researchers, non-profit, and for profit organizations.  
 * Increase our organizational capacity to do more open source by delivering more Free and Open Source Software (FOSS) to the community. FOSS is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
