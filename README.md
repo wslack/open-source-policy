@@ -57,23 +57,23 @@ In addition, while open source licenses permit the user to modify FOSS for inter
 The Bureau may release source code through the following process.
 
 1. Verify that the Bureau ‘owns’ the code
-1. Code is reviewed by ACSD for:
+1. Code is reviewed by ADSD (Applications Development and Services Division, US Census Bureau) for:
     * Obscenities and other inappropriate content
     * Usernames/Keys/Passwords and other user credentials are removed
     * Named servers, IP addresses are removed
     * Documentation is provided to explain the code and help others make use of it
-1. Code is uploaded (via ACSD) to a public location via an approved user account e.g. [U.S. Census Bureau on GitHub](https://github.com/uscensusbureau).
+1. Code is uploaded (via ADSD) to a public location via an approved user account e.g. [U.S. Census Bureau on GitHub](https://github.com/uscensusbureau).
 
 ## Source Code Contributions (from external sources) Guidelines
 
 A key feature of OSS is the ability to accept contributions from non-Census credentialed sources into a projects base code. The following steps may be used to accept code from external contributors.
 
 1. Code is reviewed by a Subject Matter Expert (SME) that is familiar with the base/project.
-1. Code is reviewed by ACSD for:
+1. Code is reviewed by ADSD for:
     * Obscenities and other inappropriate content
     * Usernames/keys/passwords and other user credentials are removed
     * Named servers, IP addresses are removed
-1. Code is inspected via the same QA process that ACSD uses for newly written code.
+1. Code is inspected via the same QA process that ADSD uses for newly written code.
 
 ## Thanks
 
