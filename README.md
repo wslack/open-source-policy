@@ -30,8 +30,7 @@ As demonstrated by both the private and public sector, there are numerous benefi
 
 ## Maximizing Community Involvement and Reuse
 
-Active involvement from the open source community is integral to the success of open source code.  
-The Census Bureau encourages contributions to its open source projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction.
+Active involvement from the open source community is integral to the success of open source code. The Census Bureau encourages contributions to its open source projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction.
 
 Forks or clones of our code repositories are free to be re-distributed. This means code created by the Census Bureau can be integrated into work that is under a more restrictive license, even those that are not considered open source licenses.
 
@@ -69,16 +68,16 @@ The Bureau may release source code through the following process.
 
 A key feature of OSS is the ability to accept contributions from non-Census credentialed sources into a projects base code. The following steps may be used to accept code from external contributors.
 
-1. Code is reviewed by a SME that is familiar with the base/project.
+1. Code is reviewed by a Subject Matter Expert (SME) that is familiar with the base/project.
 1. Code is reviewed by ACSD for:
     * Obscenities and other inappropriate content
-    * Usernames/Keys/Passwords and other user credentials are removed
+    * Usernames/keys/passwords and other user credentials are removed
     * Named servers, IP addresses are removed
 1. Code is inspected via the same QA process that ACSD uses for newly written code.
 
 ## Thanks
 
-The Census Bureau would like to thank our early CitySDK users and contributors, who provided significant feedback to improve who we do open source.  We’d also like to thank 18F and CFPB, where much of this policy was inspired.
+The Census Bureau would like to thank our early [CitySDK](https://uscensusbureau.github.io/citysdk/) users and contributors, who provided significant feedback to improve who we do open source.  We’d also like to thank [18F](https://github.com/18F/open-source-policy) and [CFPB](https://github.com/cfpb/source-code-policy), where much of this policy was inspired.
 
 ## Future Changes
 
