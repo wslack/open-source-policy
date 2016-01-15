@@ -7,12 +7,19 @@ Where possible, the US Census Bureau will actively participate in open source pr
 
 Key tenants of our open source program are the following: 
 1.	Foster a community around Census data and tools by encouraging and responding to real-time feedback on how our data products are used by researchers, non-profit, and for profit organizations.  
+
 2.	Increase our organizational capacity to do more open source by delivering more Free and Open Source Software (FOSS) to the community. FOSS is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
+
 3.	Identify opportunities to publish existing code under an open source license that may benefit the public.
+
 4.	Identify opportunities to create new open source projects, and develop those projects in the open alongside community participation.  
+
 5.	Adopt industry best practices for managing the lifecycle of our open source projects including standard release management and continuous integration approaches.
+
 6.	Encourage “Issues” and accept “Pull Requests” (PRs) from the community.  
+
 7.	Ensure that new Code Releases and Community Contributions meet the specified guidelines, detailed in the sections below.  
+
 8.	Where feasible to do so, we will automate and also open source any testing procedures and encourage contributors to execute their own tests.  
 
 
