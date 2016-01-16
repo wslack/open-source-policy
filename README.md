@@ -11,13 +11,13 @@ The Census Bureau's mission is to serve as the leading source of quality data ab
 Where possible, the US Census Bureau will actively participate in open source projects aimed at increasing value to the public through our data dissemination efforts.  
 
 * Foster a community around Census data and tools by encouraging and responding to real-time feedback on how our data products are used by researchers, non-profit, and for profit organizations.  
-* Increase our organizational capacity to do more open source by delivering more Free and Open Source Software (FOSS) to the community. FOSS is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
+* Increase our organizational capacity to do more open source by delivering more Free and Open Source Software (FOSS) to the community. FOSS is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code.
 * Identify opportunities to publish existing code under an open source license that may benefit the public.
 * Identify opportunities to create new open source projects, and develop those projects in the open alongside community participation.  
-* Adopt industry best practices for managing the lifecycle of our open source projects including standard release management and continuous integration approaches.
+* Adopt industry best practices for managing the lifecycle of our open source projects, including standard release management and continuous integration approaches.
 * Encourage “Issues” and accept “Pull Requests” (PRs) from the community.  
 * Ensure that new Code Releases and Community Contributions meet the specified guidelines, detailed in the sections below.  
-* Where feasible to do so, we will automate and also open source any testing procedures and encourage contributors to execute their own tests.
+* Where feasible to do so, we will automate and open source any testing procedures while encouraging contributors to execute their own tests.
 
 ## Benefits of Open Source
 
